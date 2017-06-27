@@ -1,7 +1,17 @@
 Problem Statement:
 
-      WomenTechWomenYes (WTWY) is a group looking to fill an event with women who share the group's mission to increase the number of women in tech and raise awareness of and spread the group's message. Currently they are blindly using a street canvassing team to hand out invitations to their event. They are seeking to find a better way of using their street canvassers to hand out invitations using data.
+      WomenTechWomenYes (WTWY) is a group looking to fill an event with women who share the group's mission to increase the
+number of women in tech and raise awareness of and spread the group's message. Currently they are blindly using a street
+canvassing team to hand out invitations to their event. They are seeking to find a better way of using their street
+canvassers to hand out invitations using data.
 
-     We would refine their goal of handing out invitations to likely attendees to handing out invitations to likely attendees who would also be donor candidates. To achieve this goal we would look at MTA turnstile data to identify busy stations as well as the times of day that they are busy so that the canvassers could gather there. The MTA turnstile data also breaks out entries and exits by entrance to the station, and this information could be used to further refine where the canvassers should be located. 
-     
-     Within the email WTWY indicated that they are also hoping to find people who would spread the group's message. We are interpreting this to be the likelihood of donations. Anticipating a person's enthusiasm for a group solely by which metro station they are using is difficult without additional information. However, given zip code data on the relative affluence of different metro stations we could further refine our stations to include wealthier areas which are more likely to donate and thus meet our dual mandate.
+      We would refine their goal of handing out invitations to likely attendees to handing out invitations to likely attendees who would also be donor candidates. To achieve this goal we would look at MTA turnstile data to identify busy stations as
+well as the times of day that they are busy so that the canvassers could gather there. The MTA turnstile data also breaks
+out entries and exits by entrance to the station, and this information could be used to further refine where the
+canvassers should be located. 
+
+      Within the email WTWY indicated that they are also hoping to find people who would spread the group's message. We are
+interpreting this to be the likelihood of donations. Anticipating a person's enthusiasm for a group solely by which metro
+station they are using is difficult without additional information. However, given zip code data on the relative affluence of
+different metro stations we could further refine our stations to include wealthier areas which are more likely to donate and
+thus meet our dual mandate.
