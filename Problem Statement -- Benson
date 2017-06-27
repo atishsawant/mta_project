@@ -1,6 +1,9 @@
 Problem Statement:
 
-      WomenTechWomenYes (WTWY) is an advocacy group focused on removing the barriers of entry for women in tech. They are looking to promote their next event and capture the greatest number of potential fundraisers and future advocates. Currently they are blindly using a street canvassing team to hand out invitations to their event. We will equip them with the data and learnings necessary to optimize their outreach efforts.
+      WomenTechWomenYes (WTWY) is an advocacy group focused on removing the barriers of entry for women in tech. They are
+looking to promote their next event and capture the greatest number of potential fundraisers and future advocates. Currently
+they are blindly using a street canvassing team to hand out invitations to their event. We will equip them with the data and
+learnings necessary to optimize their outreach efforts.
       
       Maximizing key audience reach is the primary focus for our analysis.  To achieve this goal, we will map out cosmopolitan
 traffic patterns using MTA turnstile data as a proxy. By identifying busy stations as well as the height of traffic by hour,
