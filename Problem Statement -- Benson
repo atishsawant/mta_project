@@ -1,18 +1,13 @@
 Problem Statement:
 
-      WomenTechWomenYes (WTWY) is a group looking to fill an event with women who share the group's mission to increase the
-number of women in tech and raise awareness of and spread the group's message. Currently they are blindly using a street
-canvassing team to hand out invitations to their event. They are seeking to find a better way of using their street
-canvassers to hand out invitations using data.
+      WomenTechWomenYes (WTWY) is an advocacy group focused on removing the barriers of entry for women in tech. They are looking to promote their next event and capture the greatest number of potential fundraisers and future advocates. Currently they are blindly using a street canvassing team to hand out invitations to their event. We will equip them with the data and learnings necessary to optimize their outreach efforts.
+      
+      Maximizing key audience reach is the primary focus for our analysis.  To achieve this goal, we will map out cosmopolitan
+traffic patterns using MTA turnstile data as a proxy. By identifying busy stations as well as the height of traffic by hour,
+we can focus canvasser attention on the busiest markets. This way WTWY can reduce wasted and inefficient canvassing efforts.
 
-      We would refine their goal of handing out invitations to likely attendees to handing out invitations to likely attendees
-who would also be donor candidates. To achieve this goal we would look at MTA turnstile data to identify busy stations as
-well as the times of day that they are busy so that the canvassers could gather there. The MTA turnstile data also breaks
-out entries and exits by entrance to the station, and this information could be used to further refine where the
-canvassers should be located. 
-
-      Within the email WTWY indicated that they are also hoping to find people who would spread the group's message. We are
-interpreting this to be the likelihood of donations. Anticipating a person's enthusiasm for a group solely by which metro
-station they are using is difficult without additional information. However, given zip code data on the relative affluence of
-different metro stations we could further refine our stations to include wealthier areas which are more likely to donate and
-thus meet our dual mandate.
+      The quality of the audience also matters to WTWY. WTWY indicated that they are also hoping to find people who would
+spread the group's message. We are interpreting this to be the likelihood for donations. As suchm, we will focus our attention
+on high traffic areas that index at high rates with affluence, professional careers, gender, and other demographic information
+via census data. We believe that these are the types of people who would be most receptive to WTWY's initiatives and upcoming
+campaign.
