@@ -28,7 +28,7 @@ charts
     
     >>base methodology - leang
     
-    >>bar chart of entries + exits of top stations  - atish
+    >>bar chart of entries + exits of top stations  - atish; FIND THIS BY GETTING THE INTERSECTION OF LIST OF TOP STATIONS WITH HIGHEST ENTRIES IN FIRST HALF OF DAY AND TOP EXITS IN SECOND HALF OF DAY
     
     >>stations on a map - yukino
     
